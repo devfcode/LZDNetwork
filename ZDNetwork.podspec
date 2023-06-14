@@ -15,7 +15,7 @@ Pod::Spec.new do |spec|
   #  summary should be tweet-length, and the description more in depth.
   #
 
-  spec.name         = "ZDNetwork"
+  spec.name         = "LZDNetwork"
   spec.version      = "0.0.1"
   spec.summary      = "自己封装了一个网络库"
 
