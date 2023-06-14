@@ -28,7 +28,7 @@ Pod::Spec.new do |spec|
   自己封装了一个网络库,可以根据自己的需求添加一些特别功能
                    DESC
 
-  spec.homepage     = "https://github.com/dioq/ZDNetwork"
+  spec.homepage     = "https://github.com/dioq/LZDNetwork"
   # spec.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
 
 
@@ -80,7 +80,7 @@ Pod::Spec.new do |spec|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  spec.source       = { :git => "https://github.com/dioq/ZDNetwork.git", :tag => "#{spec.version}" }
+  spec.source       = { :git => "https://github.com/dioq/LZDNetwork.git", :tag => "#{spec.version}" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
